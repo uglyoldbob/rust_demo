@@ -1,5 +1,5 @@
 This is an example showing broken behavior in a rust project.
-
+```
 E:\software\rust\broken_loop>cargo build
    Compiling typenum v1.12.0
    Compiling semver-parser v0.7.0
@@ -92,3 +92,5 @@ E:\software\rust\broken_loop>rustc -V
 rustc 1.44.0 (49cae5576 2020-06-01)
 
 E:\software\rust\broken_loop>
+
+```
